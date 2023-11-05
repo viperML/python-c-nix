@@ -1,0 +1,3 @@
+import ext
+
+ext.hello()
